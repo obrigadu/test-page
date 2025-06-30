@@ -1,17 +1,17 @@
 [
     {
-        "name": "프로그램 1",
-        "icon": "https://via.placeholder.com/64",
+        "name": "알집",
+        "icon": "https://altools.co.kr/_next/image?url=https%3A%2F%2Fxdn.altools.co.kr%2Faltoolshp%2Ficon%2Ficon_400_alzip.png&w=2048&q=75",
         "url": "downloads/program1.exe"
     },
     {
-        "name": "프로그램 2",
-        "icon": "https://via.placeholder.com/64",
+        "name": "알씨",
+        "icon": "https://altools.co.kr/_next/image?url=https%3A%2F%2Fxdn.altools.co.kr%2Faltoolshp%2Ficon%2Ficon_400_alsee.png&w=2048&q=75",
         "url": "downloads/program2.exe"
     },
     {
-        "name": "프로그램 3",
-        "icon": "https://via.placeholder.com/64",
+        "name": "`알PDF",
+        "icon": "https://altools.co.kr/_next/image?url=https%3A%2F%2Fxdn.altools.co.kr%2Faltoolshp%2Ficon%2Ficon_400_alpdf.png&w=2048&q=75",
         "url": "downloads/program3.exe"
     }
 ]
