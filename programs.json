@@ -1,0 +1,17 @@
+[
+    {
+        "name": "프로그램 1",
+        "icon": "https://via.placeholder.com/64",
+        "url": "downloads/program1.exe"
+    },
+    {
+        "name": "프로그램 2",
+        "icon": "https://via.placeholder.com/64",
+        "url": "downloads/program2.exe"
+    },
+    {
+        "name": "프로그램 3",
+        "icon": "https://via.placeholder.com/64",
+        "url": "downloads/program3.exe"
+    }
+]
